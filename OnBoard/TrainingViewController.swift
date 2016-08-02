@@ -24,11 +24,10 @@ class TrainingViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        //remove empty cells
+        //clean table view by overwriting empty footer
         tableView.tableFooterView = UIView(frame: CGRectZero)
         
-
+        //store modules from Firebase as local dictionary
     _ = ref.child("training_modules").observeSingleEventOfType(.Value) { (snapshot: FIRDataSnapshot) in
         let moduleDictionary = snapshot.value as! NSDictionary
         for (_, moduleValue) in moduleDictionary{
@@ -60,6 +59,7 @@ class TrainingViewController: UITableViewController {
         }
     }
     
+    
     func updateCurrentUnitForUser(){
         if (uid != nil){
         
@@ -71,8 +71,6 @@ class TrainingViewController: UITableViewController {
             }
         }
     }
-    
-
     
     
 // MARK: - Table View setup
@@ -148,6 +146,7 @@ class TrainingViewController: UITableViewController {
         }
         
     }
+    
 
     
     func removeCompletedModulesForUser(){
