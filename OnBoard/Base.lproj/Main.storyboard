@@ -140,7 +140,7 @@
                                         </connections>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" red="0.98823529409999999" green="0.98431372549999996" blue="0.89019607840000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="40" id="0ZV-DO-jL5"/>
                                     <constraint firstItem="Czt-XP-lZk" firstAttribute="centerY" secondItem="2rU-SS-ikn" secondAttribute="centerY" id="CAA-dk-d7Y"/>
