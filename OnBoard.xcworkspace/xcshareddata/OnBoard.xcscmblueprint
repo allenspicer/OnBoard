@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "40C0AF14270B1A77042C70619ED3D12365AF63D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "40C0AF14270B1A77042C70619ED3D12365AF63D7" : 0,
+    "33D67616EAC5E82A74D3F7E0EAF35B7CE4BAB51C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23CAF363-C69C-4C72-80E4-F8BCE8987B79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "40C0AF14270B1A77042C70619ED3D12365AF63D7" : "OnBoard\/",
+    "33D67616EAC5E82A74D3F7E0EAF35B7CE4BAB51C" : "Splash-Screen-Test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OnBoard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OnBoard.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/allenspicer\/Splash-Screen-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33D67616EAC5E82A74D3F7E0EAF35B7CE4BAB51C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/allenspicer\/OnBoard-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "40C0AF14270B1A77042C70619ED3D12365AF63D7"
+    }
+  ]
+}
