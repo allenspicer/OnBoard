@@ -28,7 +28,7 @@ class Module: NSObject {
             unitsArray.append(Quiz(question: quizKey as! String, answers: quizAnswers as! NSDictionary) )
         }
         
-        //set current unit until firebase overwrites
+        //set current unit to zero until firebase overwrites
         currentUnit = 0
         
         //set module title
