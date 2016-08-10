@@ -17,6 +17,14 @@
 		9F3E22E21D119A12002874D4 /* Statement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3E22E11D119A12002874D4 /* Statement.swift */; };
 		9F3E22E41D119A50002874D4 /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3E22E31D119A50002874D4 /* Quiz.swift */; };
 		9F3E22EE1D11ACDF002874D4 /* Unit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3E22ED1D11ACDF002874D4 /* Unit.swift */; };
+		9F646A6F1D5B67F3001A1F21 /* RootContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A6D1D5B67F3001A1F21 /* RootContainerViewController.swift */; };
+		9F646A771D5B685F001A1F21 /* AnimatedULogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A711D5B685F001A1F21 /* AnimatedULogoView.swift */; };
+		9F646A781D5B685F001A1F21 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A721D5B685F001A1F21 /* SplashViewController.swift */; };
+		9F646A791D5B685F001A1F21 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A731D5B685F001A1F21 /* Constants.swift */; };
+		9F646A7A1D5B685F001A1F21 /* TileGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A741D5B685F001A1F21 /* TileGridView.swift */; };
+		9F646A7B1D5B685F001A1F21 /* TileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A751D5B685F001A1F21 /* TileView.swift */; };
+		9F646A7C1D5B685F001A1F21 /* Chimes.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F646A761D5B685F001A1F21 /* Chimes.xcassets */; };
+		9F646A7F1D5B687C001A1F21 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F646A7D1D5B687C001A1F21 /* Utils.swift */; };
 		9F8AE59C1D1C7E93004D5D82 /* CalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8AE59B1D1C7E93004D5D82 /* CalendarViewController.swift */; };
 		9FAB36961D09C84200795F4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB36951D09C84200795F4E /* AppDelegate.swift */; };
 		9FAB36981D09C84200795F4E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAB36971D09C84200795F4E /* ProfileViewController.swift */; };
@@ -43,6 +51,16 @@
 		9F3E22E11D119A12002874D4 /* Statement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Statement.swift; sourceTree = "<group>"; };
 		9F3E22E31D119A50002874D4 /* Quiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
 		9F3E22ED1D11ACDF002874D4 /* Unit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Unit.swift; sourceTree = "<group>"; };
+		9F646A6D1D5B67F3001A1F21 /* RootContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootContainerViewController.swift; sourceTree = "<group>"; };
+		9F646A701D5B685F001A1F21 /* SplashScreenUI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SplashScreenUI.h; path = ../SplashScreenUI/SplashScreenUI.h; sourceTree = "<group>"; };
+		9F646A711D5B685F001A1F21 /* AnimatedULogoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AnimatedULogoView.swift; path = ../SplashScreenUI/AnimatedULogoView.swift; sourceTree = "<group>"; };
+		9F646A721D5B685F001A1F21 /* SplashViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SplashViewController.swift; path = ../SplashScreenUI/SplashViewController.swift; sourceTree = "<group>"; };
+		9F646A731D5B685F001A1F21 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = ../SplashScreenUI/Constants.swift; sourceTree = "<group>"; };
+		9F646A741D5B685F001A1F21 /* TileGridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TileGridView.swift; path = ../SplashScreenUI/TileGridView.swift; sourceTree = "<group>"; };
+		9F646A751D5B685F001A1F21 /* TileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TileView.swift; path = ../SplashScreenUI/TileView.swift; sourceTree = "<group>"; };
+		9F646A761D5B685F001A1F21 /* Chimes.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Chimes.xcassets; path = ../SplashScreenUI/Chimes.xcassets; sourceTree = "<group>"; };
+		9F646A7D1D5B687C001A1F21 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = ../Commons/Utils.swift; sourceTree = "<group>"; };
+		9F646A7E1D5B687C001A1F21 /* Commons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Commons.h; path = ../Commons/Commons.h; sourceTree = "<group>"; };
 		9F8AE59B1D1C7E93004D5D82 /* CalendarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarViewController.swift; sourceTree = "<group>"; };
 		9FAB36921D09C84200795F4E /* OnBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FAB36951D09C84200795F4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -130,9 +148,28 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
+		9F646A6E1D5B67F3001A1F21 /* Splash Screen */ = {
+			isa = PBXGroup;
+			children = (
+				9F646A701D5B685F001A1F21 /* SplashScreenUI.h */,
+				9F646A711D5B685F001A1F21 /* AnimatedULogoView.swift */,
+				9F646A721D5B685F001A1F21 /* SplashViewController.swift */,
+				9F646A731D5B685F001A1F21 /* Constants.swift */,
+				9F646A741D5B685F001A1F21 /* TileGridView.swift */,
+				9F646A751D5B685F001A1F21 /* TileView.swift */,
+				9F646A761D5B685F001A1F21 /* Chimes.xcassets */,
+				9F646A6D1D5B67F3001A1F21 /* RootContainerViewController.swift */,
+				9F646A7D1D5B687C001A1F21 /* Utils.swift */,
+				9F646A7E1D5B687C001A1F21 /* Commons.h */,
+			);
+			name = "Splash Screen";
+			path = "../Splash-Screen-Test/Fuber";
+			sourceTree = "<group>";
+		};
 		9FAB36891D09C84200795F4E = {
 			isa = PBXGroup;
 			children = (
+				9F646A6E1D5B67F3001A1F21 /* Splash Screen */,
 				9FAB36941D09C84200795F4E /* OnBoard */,
 				9FAB36931D09C84200795F4E /* Products */,
 				C8CAB318A8C704816CC73B02 /* Pods */,
@@ -251,6 +288,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F646A7C1D5B685F001A1F21 /* Chimes.xcassets in Resources */,
 				9F3167821D354305007DE90F /* settings.png in Resources */,
 				9FAB36A21D09C84200795F4E /* LaunchScreen.storyboard in Resources */,
 				9F3E22D11D10A5F8002874D4 /* Letter Gothic Normal.ttf in Resources */,
@@ -326,11 +364,18 @@
 				9F0B65061D12EA7B0007140D /* TrainingDetailViewController.swift in Sources */,
 				9F8AE59C1D1C7E93004D5D82 /* CalendarViewController.swift in Sources */,
 				9FAB36AA1D09C91200795F4E /* TabBarController.swift in Sources */,
+				9F646A791D5B685F001A1F21 /* Constants.swift in Sources */,
+				9F646A781D5B685F001A1F21 /* SplashViewController.swift in Sources */,
 				9FC2F9671D0EFBED00D4F349 /* TrainingViewController.swift in Sources */,
 				9FAB36961D09C84200795F4E /* AppDelegate.swift in Sources */,
+				9F646A771D5B685F001A1F21 /* AnimatedULogoView.swift in Sources */,
 				9FAB36B31D0A092300795F4E /* LoginViewController.swift in Sources */,
+				9F646A7F1D5B687C001A1F21 /* Utils.swift in Sources */,
 				9F3E22E41D119A50002874D4 /* Quiz.swift in Sources */,
+				9F646A7B1D5B685F001A1F21 /* TileView.swift in Sources */,
+				9F646A7A1D5B685F001A1F21 /* TileGridView.swift in Sources */,
 				9FAB36981D09C84200795F4E /* ProfileViewController.swift in Sources */,
+				9F646A6F1D5B67F3001A1F21 /* RootContainerViewController.swift in Sources */,
 				9F3E22E21D119A12002874D4 /* Statement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
