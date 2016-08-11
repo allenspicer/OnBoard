@@ -4,6 +4,9 @@ OnBoard makes training new nonprofit board members easy!
 With an simple animated interface that adapts to any iOS device (iPhone or iPad) OnBoard puts nonprofit expertise in your pocket. With OnBoard just 5 minutes on the subway can provide a deep understanding of your organizations latest progress, how to approach new donors or how to properly raise questions in the boardroom. OnBoard goes a step further by providing feedback to your organization's leadership, inspiring leaders to hold the crucial conversations that move their organizations forward.
 
 Upcoming Features: 
+
+Anonymous users
+
 Animated splash screen
 
 In-app document handling (PDF)
