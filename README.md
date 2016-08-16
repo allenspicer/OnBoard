@@ -7,8 +7,8 @@ Upcoming Features:
 
 -Anonymous users
 
--Animated splash screen
+-Animated splash screen (applying modified Rey Wonderlich tutorial)
 
--In-app document handling (PDF)
+-In-app document handling (PDF) (without use of PSPDFKit)
 
 <iframe src="//giphy.com/embed/LJ2rknX5TtsTm" width="480" height="853" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LJ2rknX5TtsTm">OnBoard Demo</a></p>
